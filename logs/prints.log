@@ -1,0 +1,4 @@
+22:54:36.581 [main] ERROR Demo.Checklogs - Text is not displayed
+22:54:36.606 [main] FATAL Demo.Checklogs - This is fatal issue
+22:56:32.850 [main] ERROR Dummy.AddLogs - Text is not displayed in AddLogs
+22:56:32.853 [main] FATAL Dummy.AddLogs - This is fatal issue in AddLogs

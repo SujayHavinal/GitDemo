@@ -1,0 +1,8 @@
+22:48:43.922 [main] DEBUG Dummy.AddLogs - Click on the OK button
+22:48:43.925 [main] INFO  Dummy.AddLogs - Home loaded successfully
+22:48:43.925 [main] ERROR Dummy.AddLogs - Text is not displayed
+22:48:43.926 [main] FATAL Dummy.AddLogs - This is fatal issue
+22:53:35.324 [main] ERROR Dummy.AddLogs - Text is not displayed
+22:53:35.327 [main] FATAL Dummy.AddLogs - This is fatal issue
+22:54:24.033 [main] ERROR Dummy.AddLogs - Text is not displayed in AddLogs
+22:54:24.036 [main] FATAL Dummy.AddLogs - This is fatal issue in AddLogs

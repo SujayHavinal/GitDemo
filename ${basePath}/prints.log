@@ -1,0 +1,4 @@
+22:47:08.891 [main] DEBUG Dummy.AddLogs - Click on the OK button
+22:47:08.893 [main] INFO  Dummy.AddLogs - Home loaded successfully
+22:47:08.894 [main] ERROR Dummy.AddLogs - Text is not displayed
+22:47:08.894 [main] FATAL Dummy.AddLogs - This is fatal issue
