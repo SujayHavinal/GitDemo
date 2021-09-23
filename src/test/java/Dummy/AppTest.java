@@ -21,6 +21,12 @@ public class AppTest
 	public void verify()
 	{
 		System.out.println("Verify output");
+		System.out.println("New method added");
+	}
+	@Test
+	public void gitTest()
+	{
+		System.out.println("Git repo output");
 	}
 
 }
