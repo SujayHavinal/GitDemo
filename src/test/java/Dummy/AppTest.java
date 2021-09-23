@@ -30,5 +30,11 @@ public class AppTest
 		System.out.println("Git resulted this ");
 		System.out.println("Git made easy");
 	}
-
+	@Test
+	public void get()
+	{
+		System.out.println("Get method");
+		System.out.println("Demo Results");
+		System.out.println("Give input");
+	}
 }
