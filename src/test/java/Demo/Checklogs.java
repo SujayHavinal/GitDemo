@@ -16,6 +16,12 @@ public class Checklogs {
 
 		log.fatal("This is fatal issue");
 		
+		// Again add same for Github practice
+		
+		log.debug("Get the username");
+		
+		log.info("Use the username");
+		
 		
 	}
 
