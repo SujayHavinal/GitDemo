@@ -27,6 +27,8 @@ public class AppTest
 	public void gitTest()
 	{
 		System.out.println("Git repo output");
+		System.out.println("Git resulted this ");
+		System.out.println("Git made easy");
 	}
 
 }
